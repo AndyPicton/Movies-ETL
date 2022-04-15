@@ -75,7 +75,13 @@ docs/_build/
 target/
 
 # Large excel files
-Data
+credits
+keywords
+links
+links_small
+movies_metadata
+ratings
+ratings_small
 
 
 # IPython
