@@ -75,13 +75,13 @@ docs/_build/
 target/
 
 # Large excel files
-credits
-keywords
-links
-links_small
-movies_metadata
-ratings
-ratings_small
+credits.csv
+keywords.csv.csv
+links.csv
+links_small.csv
+movies_metadata.csv
+ratings.csv
+ratings_small.csv
 
 
 # IPython
